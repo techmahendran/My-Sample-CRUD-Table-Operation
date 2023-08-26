@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Mahendran",
+      "email": "mahe123@gmail.com",
+      "city": "Chennai",
+      "detail": "Frond End Developer"
+    },
+    {
+      "id": 2,
+      "fname": "Venkatesh",
+      "email": "venkat123@gmail.com",
+      "city": "Chennai",
+      "detail": "Frond End Developer"
+    },
+    {
+      "id": 3,
+      "fname": "Senthil",
+      "email": "senthil123@gmail.com",
+      "city": "Tuticorin",
+      "detail": "Full Stack Developer"
+    },
+    {
+      "id": 4,
+      "fname": "Sentamil",
+      "email": "sentamil123@gmail.com",
+      "city": "Tuticorin",
+      "detail": "Users"
+    }
+  ]
+}
